@@ -1,14 +1,14 @@
-# Ignore personal media data
+# Personal media data ignored
 data/frames/
 data/faces/
 data/cctv.mp4
 
-# Ignore the test images
+#test images ignored
 test.jpg
 test.jpeg
 debug_test_crop.jpg
 
-# Ignore the database (contains face embeddings)
+#  database (contains face embeddings) ignored
 database/embeddings.pkl
 
 # Ignore Python cache files
